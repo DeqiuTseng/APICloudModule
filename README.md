@@ -1,4 +1,5 @@
 # APICloudModule
+
 免费的APICloud  自定义模块集群
 
 - [ ] moduleAppInfo
@@ -152,7 +153,13 @@ function apiready() {
 
 如果您需要自定义APICloud模块，请咨询QQ:1274336210  或微信:DeqiuTseng
 
-![https://github.com/DeqiuTseng/APICloudModule/blob/master/IMG_8900.jpg]()
+<img src="IMG_8900.jpg" alt="image" style="zoom:33%;" />
+
+其它问题欢迎加入我的QQ技术交流群：
+
+<img src="IMG_8902.jpg" alt="image" style="zoom:33%;" />
+
+
 
 
 
