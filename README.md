@@ -155,7 +155,7 @@ function apiready() {
 
 <img src="IMG_8900.jpg" alt="image" style="zoom:33%;" />
 
-其它问题欢迎加入我的QQ技术交流群：![image](https://github.com/DeqiuTseng/APICloudModule/blob/master/IMG_8902.jpg)
+其它问题欢迎加入我的QQ技术交流群:454539017
 
 
 
