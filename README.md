@@ -1,5 +1,5 @@
 # APICloudModule
-免费的APICloud集群
+免费的APICloud  自定义模块集群
 
 - [ ] moduleAppInfo
 - [ ] moduleCustomWebView
@@ -152,5 +152,7 @@ function apiready() {
 
 如果您需要自定义APICloud模块，请咨询QQ:1274336210  或微信:DeqiuTseng
 
-<img src="/Users/deqiutseng/APICloudModule/IMG_8900.jpg" style="zoom:25%;" />
+![https://github.com/DeqiuTseng/APICloudModule/blob/master/IMG_8900.jpg]()
+
+
 
