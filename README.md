@@ -153,9 +153,7 @@ function apiready() {
 
 如果您需要自定义APICloud模块，请咨询QQ:1274336210  或微信:DeqiuTseng
 
-<img src="IMG_8900.jpg" alt="image" style="zoom:33%;" />
-
-其它问题欢迎加入我的QQ技术交流群:454539017
+其它问题欢迎加入我的QQ技术交流群:474691105
 
 
 
