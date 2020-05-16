@@ -8,6 +8,7 @@
 - [ ] moduleScanner
 - [ ] moduleVibration
 - [ ] modulechoosepicture
+- [ ] moduleWXMiniProgramPay
 
 
 
@@ -146,6 +147,51 @@ function apiready() {
     moduleGetPicture = api.require('GetPicture');
 }
 ```
+
+
+
+## moduleWXMiniProgramPay
+
+微信小程序支付
+
+```javascript
+
+var huijuPayModule；
+function apiready() {
+    huijuPayModule= api.require('huijuPayModule');
+}
+
+//微信小程序支付
+function pay(){
+			huijuPayModule.toSmall({
+						   userName:'gh_*****',
+						   payee_name:'商品名称',
+						   original_id:'gh_268a4c909296',
+                           product_name:'网上购物-*****',//商品名称
+                           order_amout:'0.01',
+                           app_id:'52642300', //APPID
+                           trx_no:'6436354011324773',
+                           order_no:'345456341315282'
+			},function(ret,err){
+				var msg = "点击了第个按钮";
+				api.toast({
+					msg:msg
+				});
+			});
+		}
+
+//内置微信分享
+huijuPayModule.openWebView({
+						   url:'http://www.baidu.com',
+						   isShowNavigation:false,
+						   isShowBackItem:true,
+						   title:'helloworld',
+			},function(ret,err){
+
+			});
+```
+
+
 
 
 
